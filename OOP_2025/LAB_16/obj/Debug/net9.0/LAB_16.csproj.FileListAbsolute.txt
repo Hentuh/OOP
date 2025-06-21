@@ -1,0 +1,15 @@
+D:\c#\OOP\OOP_2025\LAB_16\bin\Debug\net9.0\LAB_16.exe
+D:\c#\OOP\OOP_2025\LAB_16\bin\Debug\net9.0\LAB_16.deps.json
+D:\c#\OOP\OOP_2025\LAB_16\bin\Debug\net9.0\LAB_16.runtimeconfig.json
+D:\c#\OOP\OOP_2025\LAB_16\bin\Debug\net9.0\LAB_16.dll
+D:\c#\OOP\OOP_2025\LAB_16\bin\Debug\net9.0\LAB_16.pdb
+D:\c#\OOP\OOP_2025\LAB_16\obj\Debug\net9.0\LAB_16.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\OOP\OOP_2025\LAB_16\obj\Debug\net9.0\LAB_16.AssemblyInfoInputs.cache
+D:\c#\OOP\OOP_2025\LAB_16\obj\Debug\net9.0\LAB_16.AssemblyInfo.cs
+D:\c#\OOP\OOP_2025\LAB_16\obj\Debug\net9.0\LAB_16.csproj.CoreCompileInputs.cache
+D:\c#\OOP\OOP_2025\LAB_16\obj\Debug\net9.0\LAB_16.sourcelink.json
+D:\c#\OOP\OOP_2025\LAB_16\obj\Debug\net9.0\LAB_16.dll
+D:\c#\OOP\OOP_2025\LAB_16\obj\Debug\net9.0\refint\LAB_16.dll
+D:\c#\OOP\OOP_2025\LAB_16\obj\Debug\net9.0\LAB_16.pdb
+D:\c#\OOP\OOP_2025\LAB_16\obj\Debug\net9.0\LAB_16.genruntimeconfig.cache
+D:\c#\OOP\OOP_2025\LAB_16\obj\Debug\net9.0\ref\LAB_16.dll
